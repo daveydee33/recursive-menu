@@ -2,3 +2,8 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.active {
+  color: red;
+  background-color: yellow;
+}
